@@ -1,0 +1,4 @@
+author = Steffo
+version = 14.0
+displayName = Royal Terraria 14 Content
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
