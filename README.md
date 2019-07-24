@@ -39,4 +39,4 @@ Damage = 26;
 KnockBack = 6.5;  
 Usetime = 0.5 seconds;  
 SellPrice = 1 Gold 50 Silver;   
-Craftable with Spear, Short Sword and a prehardmode Morning Star near any envil.  
+Craftable with Spear, Short Sword and a prehardmode Morning Star near any anvil.  
