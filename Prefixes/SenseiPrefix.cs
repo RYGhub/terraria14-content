@@ -11,7 +11,7 @@ namespace RoyalTerraria14Content.Prefixes
 
         public override float RollChance(Item item) => 0.1f;
 
-        public override PrefixCategory Category => PrefixCategory.AnyWeapon;
+        public override PrefixCategory Category => PrefixCategory.Melee;
 
         public SenseiPrefix() { }
 
@@ -19,7 +19,7 @@ namespace RoyalTerraria14Content.Prefixes
         {
             damageMult += 0.17f;
             knockbackMult += 0.17f;
-            scaleMult *= 2f;
+            scaleMult += 1f;
         }
 
         public override void ModifyValue(ref float valueMult)

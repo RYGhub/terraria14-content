@@ -5,12 +5,12 @@ using Terraria.ModLoader;
 
 namespace RoyalTerraria14Content.Items
 {
-    public class Dynapistol : ModItem
+    public class BlueSwede : ModItem
     {
         public override void SetStaticDefaults()
         {
-            DisplayName.SetDefault("Dynapistol");
-            Tooltip.SetDefault("Shoots lit dynamite");
+            DisplayName.SetDefault("Blue Swede");
+            Tooltip.SetDefault("Stickyfies dynamite");
         }
 
         public override void SetDefaults()
@@ -25,19 +25,19 @@ namespace RoyalTerraria14Content.Items
 
             item.autoReuse = true;
 
-            item.useTime = 20;
-            item.useAnimation = 20;
+            item.useTime = 15;
+            item.useAnimation = 15;
             item.useStyle = 5;
             item.noMelee = true;
 
-            item.value = Item.sellPrice(0, 6, 0, 0);
-            item.rare = 2;
+            item.value = Item.sellPrice(0, 12, 77, 77);
+            item.rare = 8;
 
             item.UseSound = SoundID.Item11;
 
-            item.shoot = ProjectileID.Dynamite;
-            item.shootSpeed = 8f;
-            item.useAmmo = ItemID.Dynamite;
+            item.shoot = ProjectileID.StickyDynamite;
+            item.shootSpeed = 10f;
+            item.useAmmo = ItemID.StickyDynamite;
 
             item.scale = 0.7f;
         }
@@ -45,10 +45,11 @@ namespace RoyalTerraria14Content.Items
         public override void AddRecipes()
         {
             ModRecipe recipe = new ModRecipe(mod);
-            recipe.AddIngredient(ItemID.FlintlockPistol);
-            recipe.AddIngredient(ItemID.IllegalGunParts);
-            recipe.AddIngredient(ItemID.Wood, 10);
-            recipe.AddTile(TileID.Anvils);
+            recipe.AddIngredient(mod.GetItem<Dynapistol>(), 1);
+            recipe.AddIngredient(ItemID.GoldBar, 6);
+            recipe.AddIngredient(ItemID.SpectreBar, 18);
+            recipe.AddIngredient(ItemID.Gel, 99);
+            recipe.AddTile(TileID.MythrilAnvil);
             recipe.SetResult(this);
             recipe.AddRecipe();
         }

@@ -1,4 +1,5 @@
-author = Steffo
-version = 14.0
+author = Steffo & Sensei
+version = 14.2.4
 displayName = Royal Terraria 14 Content
 buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
+homepage = https://ryg.steffo.eu/wiki/view/o84iJDY_Sy--0qBj9GtVdg/Terraria14

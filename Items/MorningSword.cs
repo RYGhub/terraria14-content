@@ -10,7 +10,7 @@ namespace RoyalTerraria14Content.Items
         public override void SetStaticDefaults()
         {
             DisplayName.SetDefault("Morning Sword");
-            Tooltip.SetDefault("It actually is a spear");
+            Tooltip.SetDefault("It isn't a spear anymore");
         }
 
         public override void SetDefaults()
