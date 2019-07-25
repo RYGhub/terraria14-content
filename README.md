@@ -68,5 +68,21 @@ Damage = 120;
 KnockBack = 0;  
 Usetime = 0.15 seconds;  
 SellPrice = 5 Gold 45 Silver;   
+Craftable with Uzi, 18 Orichalcum Bar and Illegal Gun Parts near a Mythril anvil.  
+
+### Toxic Injector 
+> "Ultrapoisons enemies"
+
+![pretty cool huh? I drew it :3](https://github.com/royal-games/RoyalTerraria14Content/blob/master/Items/ToxicInjector.png?raw=true)
+
+A very toxic liquid, collected from the deepest waterfalls of Belle Delphine's bathtub. It's a Spear that applies an ultra long debuff to enemies that deals damage over time, usefull againts bosses.
+
+Damage = who knows? 2000 in a minute?  
+KnockBack = 4.5;  
+Usetime = 0.15 seconds;  
+SellPrice = 5 Gold 45 Silver;   
+Craftable with Uzi, 18 Orichalcum Bar and Illegal Gun Parts near a Mythril anvil.  
+
+
 
 
