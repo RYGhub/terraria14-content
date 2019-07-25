@@ -24,6 +24,7 @@ Craftable with 666 FleshBlock, 66 CrimtaneBar and 66 TissueSample near a mythril
 
 A ranged weapon? May seem like it, but it's actually a gunpowder powered powerfull Throwing weapon.
 Simply shoots lit dynamite at accelerated rate and extended range... What could go wrong?
+
 Damage = 250;  
 KnockBack = 0;  
 Usetime = 0.33 seconds;  
@@ -49,6 +50,7 @@ Craftable with Spear, Short Sword and a prehardmode Morning Star near any anvil.
 
 Pretty weak as a weapon, but maybe, if you get lucky...  
 Drops Coins on hit, the coin quality depends on your luck, does melee damage.  
+
 Damage = 14;  
 KnockBack = 6;  
 Usetime = 0.4 seconds;  
