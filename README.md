@@ -91,6 +91,7 @@ Craftable with Cobalt Naginata or Palladium Pike, 25 Jungle Spores and 25 Vine n
 When you accidentaly shoot this in the house, and a feeling hooks your... AAAAAAAAAH.  
 Shoots sticky dynamite  even faster and further than before.  
 apparently this is way stronger than the normal version of this gun.  
+
 Damage = 250;  
 KnockBack = 0;  
 Usetime = 0.25 seconds;  
@@ -103,6 +104,7 @@ Craftable with 6 Gold Bar, 18 Shroomite Bar and 99 Gel near a Mythril anvil.
 ![sucks right? that's becouse I didn't to this stuff](https://github.com/royal-games/RoyalTerraria14Content/blob/master/Items/SmileCannon.png?raw=true)
 
 Now what the hell is this? Some king of magic buffing weapon! Our first attempt at a supportive gun, It gives friendly foes the "happy" buff.  
+
 Damage = 20;  
 ManaCost = 6;  
 KnockBack = 0;  
