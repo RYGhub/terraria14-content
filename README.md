@@ -48,7 +48,7 @@ Craftable with Spear, Short Sword and a prehardmode Morning Star near any anvil.
 ![pretty cool huh? I drew it :3](https://github.com/royal-games/RoyalTerraria14Content/blob/master/Items/DiceCane.png?raw=true)
 
 Pretty weak as a weapon, but maybe, if you get lucky...  
-Drops Coins on hit, the coin quality depends on your luck, does melee damage.
+Drops Coins on hit, the coin quality depends on your luck, does melee damage.  
 Damage = 14;  
 KnockBack = 6;  
 Usetime = 0.4 seconds;  
@@ -88,10 +88,11 @@ Craftable with Cobalt Naginata or Palladium Pike, 25 Jungle Spores and 25 Vine n
 
 ![pretty cool huh? I drew it :3](https://github.com/royal-games/RoyalTerraria14Content/blob/master/Items/BlueSwede.png?raw=true)
 
-When you accidentaly shoot this in the house, and a feeling hooks you... AAAAAAAAAH.  
+When you accidentaly shoot this in the house, and a feeling hooks your... AAAAAAAAAH.  
 Shoots sticky dynamite  even faster and further than before.  
 apparently this is way stronger than the normal version of this gun.  
 Damage = 250;  
 KnockBack = 0;  
 Usetime = 0.25 seconds;  
-SellPrice = 6 Gold;  
+SellPrice = 12 Gold, 77 Silver, 77 Bronze;  
+Craftable with 6 Gold Bar, 18 Spectre Bar and 99 Gel near a Mythril anvil.  
