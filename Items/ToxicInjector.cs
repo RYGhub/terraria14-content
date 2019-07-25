@@ -58,7 +58,7 @@ namespace RoyalTerraria14Content.Items
             recipe2.AddIngredient(ItemID.PalladiumPike);
             recipe2.AddIngredient(ItemID.JungleSpores, 25);
             recipe2.AddIngredient(ItemID.Vine, 25);
-            recipe2.AddTile(TileID.MythrilAnvil);
+            recipe2.AddTile(TileID.Anvils);
             recipe2.SetResult(this);
             recipe2.AddRecipe();
         }
