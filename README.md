@@ -4,7 +4,7 @@ New content mod for the fourteenth Royal Terraria
 Added some new cool yet very broken weapons that may or may not lead to massive destruction and exploits.
 
 ### Bane of Krush Gull
-"The floating sword of the Royal Terror"
+> "The floating sword of the Royal Terror"
 
 ![pretty cool huh? I drew it :3](https://github.com/royal-games/RoyalTerraria14Content/blob/master/Items/BaneOfKrushGull.png?raw=true)
 
@@ -18,7 +18,7 @@ SellPrice = 8 Gold;
 Craftable with 666 FleshBlock, 66 CrimtaneBar and 66 TissueSample near a mythril anvil.  
 
 ### Dynapistol
-"Shoots lit dynamite"
+> "Shoots lit dynamite"
 
 ![pretty cool huh? I drew it :3](https://github.com/royal-games/RoyalTerraria14Content/blob/master/Items/Dynapistol.png?raw=true)
 
@@ -31,7 +31,7 @@ SellPrice = 6 Gold;
 Craftable with Flintlock Pistol, Illegal Gun Parts and 10 Wood near any anvil.  
 
 ### Morning Sword
-"It isn't a spear anymore"
+> "It isn't a spear anymore"
 
 ![pretty cool huh? I drew it :3](https://github.com/royal-games/RoyalTerraria14Content/blob/master/Items/MorningSword.png?raw=true)
 
@@ -43,7 +43,7 @@ SellPrice = 1 Gold 50 Silver;
 Craftable with Spear, Short Sword and a prehardmode Morning Star near any anvil.  
 
 ### Dice Cane 
-"'I'm up all night to get lucky'"
+> "'I'm up all night to get lucky'"
 
 ![pretty cool huh? I drew it :3](https://github.com/royal-games/RoyalTerraria14Content/blob/master/Items/DiceCane.png?raw=true)
 
@@ -56,7 +56,7 @@ SellPrice = 16 Silver;
 Craftable with 12 Gold Bar, Lucky Horsehoe and 6 Rubies near any anvil.  
 
 ### Pinkzi 
-"Shoots bouncy grenades"
+> "Shoots bouncy grenades"
 
 ![pretty cool huh? I drew it :3](https://github.com/royal-games/RoyalTerraria14Content/blob/master/Items/Pinkzi.png?raw=true)
 
