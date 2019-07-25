@@ -79,10 +79,19 @@ A very toxic liquid, collected from the deepest waterfalls of Belle Delphine's b
 
 Damage = who knows? 2000 in a minute?  
 KnockBack = 4.5;  
-Usetime = 0.15 seconds;  
-SellPrice = 5 Gold 45 Silver;   
-Craftable with Uzi, 18 Orichalcum Bar and Illegal Gun Parts near a Mythril anvil.  
+Usetime = 0.33 seconds;  
+SellPrice = none, nobody wants to touch that gay *sheet*;  
+Craftable with Cobalt Naginata or Palladium Pike, 25 Jungle Spores and 25 Vine near a Mythril anvil.  
 
+### Blue Swede 
+> "Stickyfies dynamite"
 
+![pretty cool huh? I drew it :3](https://github.com/royal-games/RoyalTerraria14Content/blob/master/Items/BlueSwede.png?raw=true)
 
-
+When you accidentaly shoot this in the house, and a feeling hooks you... AAAAAAAAAH.  
+Shoots sticky dynamite  even faster and further than before.  
+apparently this is way stronger than the normal version of this gun.  
+Damage = 250;  
+KnockBack = 0;  
+Usetime = 0.25 seconds;  
+SellPrice = 6 Gold;  
