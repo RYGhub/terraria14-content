@@ -75,7 +75,7 @@ Craftable with Uzi, 18 Orichalcum Bar and Illegal Gun Parts near a Mythril anvil
 
 ![pretty cool huh? I drew it :3](https://github.com/royal-games/RoyalTerraria14Content/blob/master/Items/ToxicInjector.png?raw=true)
 
-A very toxic liquid, collected from the deepest waterfalls of Belle Delphine's bathtub. It's a Spear that applies an ultra long debuff to enemies that deals damage over time, usefull againts bosses.
+A very toxic liquid, collected from the deepest waterfalls of Belle Delphine's bathtub. It's a Spear that applies an ultra long debuff to enemies that deals damage over time, usefull againts bosses.  
 
 Damage = who knows? 2000 in a minute?  
 KnockBack = 4.5;  
@@ -95,4 +95,17 @@ Damage = 250;
 KnockBack = 0;  
 Usetime = 0.25 seconds;  
 SellPrice = 12 Gold, 77 Silver, 77 Bronze;  
-Craftable with 6 Gold Bar, 18 Spectre Bar and 99 Gel near a Mythril anvil.  
+Craftable with 6 Gold Bar, 18 Shroomite Bar and 99 Gel near a Mythril anvil.  
+
+### Smile Cannon
+> "Make your friends smile and heal them"
+
+![sucks right? that's becouse I didn't to this stuff](https://github.com/royal-games/RoyalTerraria14Content/blob/master/Items/SmileCannon.png?raw=true)
+
+Now what the hell is this? Some king of magic buffing weapon! Our first attempt at a supportive gun, It gives friendly foes the "happy" buff.  
+Damage = 20;  
+ManaCost = 6;  
+KnockBack = 0;  
+Usetime = 0.33 seconds;  
+SellPrice = 1 Gold;  
+Craftable with KOCannon and 30 Sunflower near a Mythril anvil. 
