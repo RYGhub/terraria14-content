@@ -47,7 +47,7 @@ namespace RoyalTerraria14Content.Items
             ModRecipe recipe = new ModRecipe(mod);
             recipe.AddIngredient(mod.GetItem<Dynapistol>(), 1);
             recipe.AddIngredient(ItemID.GoldBar, 6);
-            recipe.AddIngredient(ItemID.SpectreBar, 18);
+            recipe.AddIngredient(ItemID.ShroomiteBar, 18);
             recipe.AddIngredient(ItemID.Gel, 99);
             recipe.AddTile(TileID.MythrilAnvil);
             recipe.SetResult(this);
