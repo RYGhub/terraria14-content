@@ -37,6 +37,8 @@ namespace RoyalTerraria14Content.Items
 
             item.shootSpeed = 4f;
             item.shoot = mod.ProjectileType<Projectiles.ToxicInjector>();
+            
+            item.value = Item.sellPrice(0, 1, 50, 0);
         }
 
         public override bool CanUseItem(Player player)
